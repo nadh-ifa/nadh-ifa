@@ -24,7 +24,7 @@ linkedin  : <a href="https://www.linkedin.com/in/nadhi-fa/">linkedin.com/in/nadh
 <br>
 
 <p align="center">
-  <img src="./assets/pixel-cat.gif" width="80">
+  <img src="./pixel-cat.gif" width="80">
 </p>
 
 <p align="center">
